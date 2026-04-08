@@ -34,7 +34,7 @@ categories while keeping their order updated in the database.
 
 - **Flask** - Backend web framework
 - **Flask-SQLAlchemy** - ORM for database handling
-- **SQLite** - Lightweight database
+- **SQLite** - Lightweight database *(Used for development, PostgreSQL is recommended for production)*
 - **HTML + Jinja2 + Tailwind CSS + JS** - Frontend
 - **SortableJS** - Drag and drop sorting
 - **Font Awesome** - Icons
